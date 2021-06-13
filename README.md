@@ -2,6 +2,12 @@
 
 These sounds were put together initially for the [KDE Plasma Mobile Audio Competition](https://community.kde.org/Promo/Plasma_Mobile_Audio_Competition). Please be sure to read the license section below if you decide to use these sounds or music in one of your projects.
 
+__All audio to be entered into the contest is located under the `/final_sounds` directory.__
+
+## Previewing these entries
+
+You can either download the tracks and play them back, or you can hear the tracks on [Soundcloud](https://soundcloud.com/nesdood007).
+
 ## License
 
 The sounds included in this repo are licensed as [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
