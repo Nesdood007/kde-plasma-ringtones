@@ -9,7 +9,11 @@ A copy of the license text has been provided in the `LICENSE` file.
 
 ## Files included
 
-@TODO add this
+__/final_sounds/__
+
+- __/keyboard__ - This is where the keyboard sounds are located. Plse see the Keyboard sounds section to learn more about how the files are named and how they are inteded to be used
+- __/ringtones__ - This is there the alarms and ringtones are located. There is not really any distinction between which ones are alarms and which ones are ringtones, as I imagine that people will end up using sounds like these for both categories.
+    - See the __Looping__ section to learn more about which sounds are able to be looped
 
 ### Keyboard Sounds
 
@@ -22,6 +26,7 @@ Where the prefix is one of:
 - `s` for the Space bar
 - `n` for a normal key
 - `m` for a modifier key
+- `b` for the backspace key
 
 and Where the number is the sample number
 
@@ -30,7 +35,7 @@ and Where the suffix, if any, is:
 - `d` - Downpress of a key
 - `r` - Release of a key
 
-The idea here is to provide a small variety of sounds such that any key can be pressed consecituvely and not have the same sound. For example, if I pressed a normal key, say the letter A, and then hit the letter S key, the sounds played could be n1.wav and then n2.wav, so that you hear a similar bit not quite the same sound. Now, if the user decided to press the Control key, they would normally hold it down before pressing any other key, so I split the sounds up into a downpress sound that would be played when the user hit the key initially, and then another sound that would be played when the user would release the key. Lastly, I provided a sound for the space bar, since it had a distinct sound on my keyboard. 
+The idea here is to provide a small variety of sounds such that any key can be pressed consecituvely and not have the same sound. For example, if I pressed a normal key, say the letter A, and then hit the letter S key, the sounds played could be n1.wav and then n2.wav, so that you hear a similar bit not quite the same sound. Now, if the user decided to press the Control key, they would normally hold it down before pressing any other key, so I split the sounds up into a downpress sound that would be played when the user hit the key initially, and then another sound that would be played when the user would release the key. Lastly, I provided sounds for the space bar abd the backspace keys, since they have distinct sounds on the keyboard.
 
 ## Looping
 
@@ -58,7 +63,7 @@ The rest of the ringtones (4, 5, and 12) are not loopable, but I made sure that 
 - Salamander Piano
     - https://sfzinstruments.github.io/pianos/salamander
     - CC-BY-3.0
-    - Used in one of the ringtones
+    - Used for some of the system event / SMS sounds
 - Samples I recorded from my IBM Model M Keyboard
     - These are licensed the same way as the rest of the respources in this repo
 
