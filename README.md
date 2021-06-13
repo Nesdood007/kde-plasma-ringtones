@@ -18,8 +18,10 @@ __/keyboard_samples__
 __/final_sounds/__
 
 - __/keyboard__ - This is where the keyboard sounds are located. Plse see the Keyboard sounds section to learn more about how the files are named and how they are inteded to be used
-- __/ringtones__ - This is there the alarms and ringtones are located. There is not really any distinction between which ones are alarms and which ones are ringtones, as I imagine that people will end up using sounds like these for both categories.
+- __/ringtones__ - This is where the ringtones are located. There is not really any distinction between which ones are alarms and which ones are ringtones, as I imagine that people will end up using sounds like these for both categories.
     - See the __Looping__ section to learn more about which sounds are able to be looped
+- __/alerts__ - This is where the alert sounds are located. These are short sounds that are for system events, or for incoming SMS messages
+- __/alarms__ - This is where the alarm sound is. This sound is loopable.
 
 ### Keyboard Sounds
 
@@ -69,9 +71,9 @@ The rest of the ringtones (4, 5, and 12) are not loopable, but I made sure that 
 - Salamander Piano
     - https://sfzinstruments.github.io/pianos/salamander
     - CC-BY-3.0
-    - Used for some of the system event / SMS sounds
+    - Used for some of the system event / SMS sounds, and an alarm sound
 - Samples I recorded from my IBM Model M Keyboard
-    - These are licensed the same way as the rest of the respources in this repo
+    - These are licensed the same way as the rest of the resources in this repo
 
 ## Tools used
 - LMMS
