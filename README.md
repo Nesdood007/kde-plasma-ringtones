@@ -1,13 +1,53 @@
 # KDE LMMS Competition Entries
 
+These sounds were put together initially for the [KDE Plasma Mobile Audio Competition](https://community.kde.org/Promo/Plasma_Mobile_Audio_Competition). Please be sure to read the license section below if you decide to use these sounds or music in one of your projects.
+
+## License
+
+The sounds included in this repo are licensed as [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+A copy of the license text has been provided in the `LICENSE` file.
+
 ## Files included
 
-@TODO 499 Re-export
+@TODO add this
+
+### Keyboard Sounds
+
+I included sounds for modifier keys, the space bar, and normal keys. They are located in the `/final_sounds/keyboard` directory, and named using the following schema:
+
+`<prefix><number><suffix>`
+
+Where the prefix is one of:
+
+- `s` for the Space bar
+- `n` for a normal key
+- `m` for a modifier key
+
+and Where the number is the sample number
+
+and Where the suffix, if any, is:
+
+- `d` - Downpress of a key
+- `r` - Release of a key
+
+The idea here is to provide a small variety of sounds such that any key can be pressed consecituvely and not have the same sound. For example, if I pressed a normal key, say the letter A, and then hit the letter S key, the sounds played could be n1.wav and then n2.wav, so that you hear a similar bit not quite the same sound. Now, if the user decided to press the Control key, they would normally hold it down before pressing any other key, so I split the sounds up into a downpress sound that would be played when the user hit the key initially, and then another sound that would be played when the user would release the key. Lastly, I provided a sound for the space bar, since it had a distinct sound on my keyboard. 
 
 ## Looping
 
-The following entries are loopable:
-- @TODO
+The following ringtones are loopable:
+- Ringtone 1 (`r1.wav`)
+- Ringtone 2 (`r2.wav`)
+- Ringtone 3 (`r3.wav`)
+- Ringtone 6 (`r6.wav`)
+- Ringtone 7 (`r7.wav`)
+- Ringtone 8 (`r8.wav`)
+- Ringtone 9 (`r9.wav`)
+- Ringtone 10 (`r10.wav`)
+- Ringtone 11 (`r11.wav`)
+
+Each of those ringtones are repeated twice so that the ring from the reverb is present in the second iteration of the loop.
+
+The rest of the ringtones (4, 5, and 12) are not loopable, but I made sure that the ends are properly faded out so that they can be repeated if necessary.
 
 ## Samples used
 
