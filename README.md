@@ -9,6 +9,12 @@ A copy of the license text has been provided in the `LICENSE` file.
 
 ## Files included
 
+__/project_files__
+- All Project source files are included in here
+
+__/keyboard_samples__
+- All original unprocessed keyboard samples are here.
+
 __/final_sounds/__
 
 - __/keyboard__ - This is where the keyboard sounds are located. Plse see the Keyboard sounds section to learn more about how the files are named and how they are inteded to be used
