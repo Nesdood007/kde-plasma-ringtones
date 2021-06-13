@@ -6,7 +6,7 @@ __All audio to be entered into the contest is located under the `/final_sounds` 
 
 ## Previewing these entries
 
-You can either download the tracks and play them back, or you can hear the tracks on [Soundcloud](https://soundcloud.com/nesdood007).
+You can either download the tracks and play them back, <st>or you can hear the tracks on [Soundcloud](https://soundcloud.com/nesdood007).</st> I'm uploading this as soon as I can. In the meantime please make use of the first option.
 
 ## License
 
