@@ -135,6 +135,84 @@
             },
             "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/ringtone/r12.wav",
             "loop": true
+        },
+        //b1.wav  b2.wav  b3.wav  m1p.wav  m1r.wav  n1.wav  n2.wav  n3.wav  s1.wav  s2.wav  s3.wav
+        {
+            "title": "Keyboard Backspace 1",
+            "description": {
+                "text":"Keyboard Backspace 1"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/keyboard/b1.wav"
+        },
+        {
+            "title": "Keyboard Backspace 2",
+            "description": {
+                "text":"Keyboard Backspace 2"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/keyboard/b2.wav"
+        },
+        {
+            "title": "Keyboard Backspace 3",
+            "description": {
+                "text":"Keyboard Backspace 3"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/keyboard/b3.wav"
+        },
+        {
+            "title": "Keyboard Modifier Press",
+            "description": {
+                "text":"Keyboard Modifier Press"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/keyboard/m1p.wav"
+        },
+        {
+            "title": "Keyboard Modifier Release",
+            "description": {
+                "text":"Keyboard Modifier Release"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/keyboard/m1r.wav"
+        },
+        {
+            "title": "Keyboard Normal Key 1",
+            "description": {
+                "text":"Keyboard Normal Key 1"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/keyboard/n1.wav"
+        },
+        {
+            "title": "Keyboard Normal Key 2",
+            "description": {
+                "text":"Keyboard Normal Key 2"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/keyboard/n2.wav"
+        },
+        {
+            "title": "Keyboard Normal Key 3",
+            "description": {
+                "text":"Keyboard Normal Key 3"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/keyboard/n3.wav"
+        },
+        {
+            "title": "Keyboard Spacebar Key 1",
+            "description": {
+                "text":"Keyboard Spacebar Key 1"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/keyboard/s1.wav"
+        },
+        {
+            "title": "Keyboard Spacebar Key 2",
+            "description": {
+                "text":"Keyboard Spacebar Key 2"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/keyboard/s2.wav"
+        },
+        {
+            "title": "Keyboard Spacebar Key 3",
+            "description": {
+                "text":"Keyboard Spacebar Key 3"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/keyboard/s3.wav"
         }
     ]
 } 
