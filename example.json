@@ -1,34 +1,56 @@
 {
     "title": "A Test Playlist",
     "description": {
-        "text": "This is a text description",
-        "md": "This is a __markdown__ description",
-        "url": "/Nesdood007/test/main/README.md"
+        "text": "These are entries for the KDE competition"
     },
-    "links": [
-        {
-            "url":"/Nesdood007/test/main/README.md",
-            "title": "Project's README file"
-        }
-
-    ],
     "tracks": [
+        {
+            "title": "Alarm 1",
+            "description": {
+                "text":"Alarm 1"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alarm/alarm1.wav",
+            "loop": true
+        },
+        {
+            "title": "Alert 1",
+            "description": {
+                "text":"Alert 1"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alert/alert1.wav",
+            "loop": true
+        },
+        {
+            "title": "Alert 2",
+            "description": {
+                "text":"Alert 2"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alert/alert2.wav",
+            "loop": true
+        },
+        {
+            "title": "Alert 3",
+            "description": {
+                "text":"Alert 3"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alert/alert3.wav",
+            "loop": true
+        },
+        {
+            "title": "Alert 4",
+            "description": {
+                "text":"Alert 4"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alert/alert4.wav",
+            "loop": true
+        },
         {
             "title": "Ringtone 1",
             "description": {
-                "text":"This is a text description"
+                "text":"Ringtone 1"
             },
-            "tags": [
-                {
-                    "title": "Electronic"
-                },
-                {
-                    "title": "LMMS"
-                }
-            ],
-            "src": "main/final_sounds/alarm/alarm1.wav",
-            "loop": true,
-            "autoplay": true
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/ringtone/r1.wav",
+            "loop": true
         }
     ]
 } 
