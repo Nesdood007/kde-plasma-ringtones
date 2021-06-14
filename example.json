@@ -1,0 +1,34 @@
+{
+    "title": "A Test Playlist",
+    "description": {
+        "text": "This is a text description",
+        "md": "This is a __markdown__ description",
+        "url": "/Nesdood007/test/main/README.md"
+    },
+    "links": [
+        {
+            "url":"/Nesdood007/test/main/README.md",
+            "title": "Project's README file"
+        }
+
+    ],
+    "tracks": [
+        {
+            "title": "Ringtone 1",
+            "description": {
+                "text":"This is a text description"
+            },
+            "tags": [
+                {
+                    "title": "Electronic"
+                },
+                {
+                    "title": "LMMS"
+                }
+            ],
+            "src": "main/final_sounds/alarm/alarm1.wav",
+            "loop": true,
+            "autoplay": true
+        }
+    ]
+} 
