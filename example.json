@@ -17,7 +17,7 @@
             "description": {
                 "text":"Alert 1"
             },
-            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alert/alert1.wav",
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alerts/alert1.wav",
             "loop": true
         },
         {
@@ -25,7 +25,7 @@
             "description": {
                 "text":"Alert 2"
             },
-            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alert/alert2.wav",
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alerts/alert2.wav",
             "loop": true
         },
         {
@@ -33,7 +33,7 @@
             "description": {
                 "text":"Alert 3"
             },
-            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alert/alert3.wav",
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alerts/alert3.wav",
             "loop": true
         },
         {
@@ -41,7 +41,7 @@
             "description": {
                 "text":"Alert 4"
             },
-            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alert/alert4.wav",
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alerts/alert4.wav",
             "loop": true
         },
         {
