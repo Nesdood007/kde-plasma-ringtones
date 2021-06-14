@@ -17,32 +17,28 @@
             "description": {
                 "text":"Alert 1"
             },
-            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alerts/alert1.wav",
-            "loop": true
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alerts/alert1.wav"
         },
         {
             "title": "Alert 2",
             "description": {
                 "text":"Alert 2"
             },
-            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alerts/alert2.wav",
-            "loop": true
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alerts/alert2.wav"
         },
         {
             "title": "Alert 3",
             "description": {
                 "text":"Alert 3"
             },
-            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alerts/alert3.wav",
-            "loop": true
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alerts/alert3.wav"
         },
         {
             "title": "Alert 4",
             "description": {
                 "text":"Alert 4"
             },
-            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alerts/alert4.wav",
-            "loop": true
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/alerts/alert4.wav"
         },
         {
             "title": "Ringtone 1",
@@ -50,6 +46,94 @@
                 "text":"Ringtone 1"
             },
             "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/ringtone/r1.wav",
+            "loop": true
+        },
+        {
+            "title": "Ringtone 2",
+            "description": {
+                "text":"Ringtone 2"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/ringtone/r2.wav",
+            "loop": true
+        },
+        {
+            "title": "Ringtone 3",
+            "description": {
+                "text":"Ringtone 3"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/ringtone/r3.wav",
+            "loop": true
+        },
+        {
+            "title": "Ringtone 4",
+            "description": {
+                "text":"Ringtone 4"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/ringtone/r4.wav",
+            "loop": true
+        },
+        {
+            "title": "Ringtone 5",
+            "description": {
+                "text":"Ringtone 5"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/ringtone/r5.wav",
+            "loop": true
+        },
+        {
+            "title": "Ringtone 6",
+            "description": {
+                "text":"Ringtone 6"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/ringtone/r6.wav",
+            "loop": true
+        },
+        {
+            "title": "Ringtone 7",
+            "description": {
+                "text":"Ringtone 7"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/ringtone/r7.wav",
+            "loop": true
+        },
+        {
+            "title": "Ringtone 8",
+            "description": {
+                "text":"Ringtone 8"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/ringtone/r8.wav",
+            "loop": true
+        },
+        {
+            "title": "Ringtone 9",
+            "description": {
+                "text":"Ringtone 9"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/ringtone/r9.wav",
+            "loop": true
+        },
+        {
+            "title": "Ringtone 10",
+            "description": {
+                "text":"Ringtone 10"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/ringtone/r10.wav",
+            "loop": true
+        },
+        {
+            "title": "Ringtone 11",
+            "description": {
+                "text":"Ringtone 11"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/ringtone/r11.wav",
+            "loop": true
+        },
+        {
+            "title": "Ringtone 12",
+            "description": {
+                "text":"Ringtone 12"
+            },
+            "src": "https://raw.githubusercontent.com/Nesdood007/kde-plasma-ringtones/main/final_sounds/ringtone/r12.wav",
             "loop": true
         }
     ]
