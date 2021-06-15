@@ -8,6 +8,8 @@ __All audio to be entered into the contest is located under the `/final_sounds` 
 
 You can either download the tracks and play them back, <st>or you can hear the tracks on [Soundcloud](https://soundcloud.com/nesdood007).</st> I'm uploading this as soon as I can. In the meantime please make use of the first option.
 
+Another convenient way to listen to the uploaded files is to use the [Web Audio Player](https://mboleary.github.io/?s=/Nesdood007/kde-plasma-ringtones/test/example.json)
+
 ## License
 
 The sounds included in this repo are licensed as [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
