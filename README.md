@@ -51,7 +51,7 @@ and Where the suffix, if any, is:
 - `p` - Downpress of a key
 - `r` - Release of a key
 
-The idea here is to provide a small variety of sounds such that any key can be pressed consecituvely and not have the same sound. For example, if I pressed a normal key, say the letter A, and then hit the letter S key, the sounds played could be n1.wav and then n2.wav, so that you hear a similar but not quite the same sound. Now, if the user decided to press the Control key, they would normally hold it down before pressing any other key, so I split the sounds up into a downpress sound that would be played when the user hit the key initially, and then another sound that would be played when the user would release the key. Lastly, I provided sounds for the space bar abd the backspace keys, since they have distinct sounds on the keyboard.
+The idea here is to provide a small variety of sounds such that any key can be pressed consecutively and not have the same sound. For example, if I pressed a normal key, say the letter A, and then hit the letter S key, the sounds played could be n1.wav and then n2.wav, so that you hear a similar but not quite the same sound. Now, if the user decided to press the Control key, they would normally hold it down before pressing any other key, so I split the sounds up into a downpress sound that would be played when the user hit the key initially, and then another sound that would be played when the user would release the key. Lastly, I provided sounds for the space bar abd the backspace keys, since they have distinct sounds on the keyboard.
 
 ## Looping
 
